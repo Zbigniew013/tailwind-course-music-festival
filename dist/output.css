@@ -1316,6 +1316,11 @@ html {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+.hover\:shadow-black:hover{
+  --tw-shadow-color: #000;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
 .focus\:outline-2:focus{
   outline-width: 2px;
 }
